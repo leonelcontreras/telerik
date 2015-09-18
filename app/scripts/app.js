@@ -6,5 +6,6 @@
         alert("Todo Bien");//Gracias por las observaciones
         					//Denada todo bien
         					//Sale vale al rato ya me ire a descansar
+        					//Bye
     });
 }());
