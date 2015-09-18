@@ -4,5 +4,6 @@
         navigator.splashscreen.hide();
         alert("Hola como estas?");
         alert("Todo Bien");//Gracias por las observaciones
+        					//Denada todo bien
     });
 }());
